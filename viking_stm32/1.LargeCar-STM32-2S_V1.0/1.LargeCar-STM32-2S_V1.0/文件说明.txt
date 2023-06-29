@@ -1,0 +1,13 @@
+1.Laasckp    存放模块函数.c和.h。
+2.Library    存放STM32F10x系列核心函数。
+3.project    存放工程启动文件和程序缓存的。
+4.startup    存放启动函数。
+5.User       存放main函数和中断函数和外设的头文件函数。
+6.keilkilll  瘦身文件，点一下就可以。
+
+作者：Laasckp
+时间：2023.06.11
+版本：
+
+
+
